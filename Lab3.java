@@ -1,12 +1,11 @@
 // Programmers:  Kelechi and Rohama
 // Course:  CS 212
-// Due Date:
-// Lab Assignment:
-// Problem Statement:
-// Data In:
-// Data Out:
-// Credits: [Is your code based on an example in the book, in class, or something else?
-//            Reminder: you should never take code from the Internet or another person
+// Due Date: 10.02.23
+// Lab Assignment: 3
+// Problem Statement: Helping the user with bank statments 
+// Data In: user name, choosing what option they want to use
+// Data Out: updated amount of their balance
+// Credits: notes
 
 import java.util.Scanner;
 
