@@ -1,1 +1,5 @@
-
+1. Import scanner
+2. Print a message asking the user for their name
+3. Store their input into a String called "name"
+4. Print a welcome message with the users name and ask them what they will like to do.
+5. 
